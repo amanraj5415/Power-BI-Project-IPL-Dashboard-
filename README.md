@@ -1,4 +1,4 @@
-# Power-BI-Project-IPL-Dashboard-
+# Power-BI-Project-1-IPL-Dashboard-
 Title: IPL Dashboard Summary in Power BI
 
 Description:
